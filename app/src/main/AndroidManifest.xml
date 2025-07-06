@@ -23,6 +23,13 @@
         <activity
             android:name=".HomeActivity"
             android:exported="true" />
+
+        <activity
+            android:name=".StatsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PoopFormActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
